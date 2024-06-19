@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\u001\\OneDrive - MSFT\\\u5B66\u4E60\\\u5927\u4E8C\u4E0B\\\u53EF\u89C6\u5316\u7A0B\u5E8F\u8BBE\u8BA1\\FinalExam\\2229425_\u66FE\u5609\u4F1F_\u4FC4\u7F57\u65AF\u65B9\u5757\u6E38\u620F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13EF5FA9-C9AC-4E6D-B4E9-13C5700D13E6}|TetrisGame.csproj|e:\\u001\\onedrive - msft\\\u5B66\u4E60\\\u5927\u4E8C\u4E0B\\\u53EF\u89C6\u5316\u7A0B\u5E8F\u8BBE\u8BA1\\finalexam\\2229425_\u66FE\u5609\u4F1F_\u4FC4\u7F57\u65AF\u65B9\u5757\u6E38\u620F\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13EF5FA9-C9AC-4E6D-B4E9-13C5700D13E6}|TetrisGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EF5FA9-C9AC-4E6D-B4E9-13C5700D13E6}|TetrisGame.csproj|E:\\u001\\OneDrive - MSFT\\\u5B66\u4E60\\\u5927\u4E8C\u4E0B\\\u53EF\u89C6\u5316\u7A0B\u5E8F\u8BBE\u8BA1\\FinalExam\\2229425_\u66FE\u5609\u4F1F_\u4FC4\u7F57\u65AF\u65B9\u5757\u6E38\u620F\\images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13EF5FA9-C9AC-4E6D-B4E9-13C5700D13E6}|TetrisGame.csproj|solutionrelative:images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EF5FA9-C9AC-4E6D-B4E9-13C5700D13E6}|TetrisGame.csproj|E:\\u001\\OneDrive - MSFT\\\u5B66\u4E60\\\u5927\u4E8C\u4E0B\\\u53EF\u89C6\u5316\u7A0B\u5E8F\u8BBE\u8BA1\\FinalExam\\2229425_\u66FE\u5609\u4F1F_\u4FC4\u7F57\u65AF\u65B9\u5757\u6E38\u620F\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{13EF5FA9-C9AC-4E6D-B4E9-13C5700D13E6}|TetrisGame.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EF5FA9-C9AC-4E6D-B4E9-13C5700D13E6}|TetrisGame.csproj|E:\\u001\\OneDrive - MSFT\\\u5B66\u4E60\\\u5927\u4E8C\u4E0B\\\u53EF\u89C6\u5316\u7A0B\u5E8F\u8BBE\u8BA1\\FinalExam\\2229425_\u66FE\u5609\u4F1F_\u4FC4\u7F57\u65AF\u65B9\u5757\u6E38\u620F\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13EF5FA9-C9AC-4E6D-B4E9-13C5700D13E6}|TetrisGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "E:\\u001\\OneDrive - MSFT\\\u5B66\u4E60\\\u5927\u4E8C\u4E0B\\\u53EF\u89C6\u5316\u7A0B\u5E8F\u8BBE\u8BA1\\FinalExam\\2229425_\u66FE\u5609\u4F1F_\u4FC4\u7F57\u65AF\u65B9\u5757\u6E38\u620F\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "E:\\u001\\OneDrive - MSFT\\\u5B66\u4E60\\\u5927\u4E8C\u4E0B\\\u53EF\u89C6\u5316\u7A0B\u5E8F\u8BBE\u8BA1\\FinalExam\\2229425_\u66FE\u5609\u4F1F_\u4FC4\u7F57\u65AF\u65B9\u5757\u6E38\u620F\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-27T16:37:23.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Images.cs",
+              "DocumentMoniker": "E:\\u001\\OneDrive - MSFT\\\u5B66\u4E60\\\u5927\u4E8C\u4E0B\\\u53EF\u89C6\u5316\u7A0B\u5E8F\u8BBE\u8BA1\\FinalExam\\2229425_\u66FE\u5609\u4F1F_\u4FC4\u7F57\u65AF\u65B9\u5757\u6E38\u620F\\Images.cs",
+              "RelativeDocumentMoniker": "Images.cs",
+              "ToolTip": "E:\\u001\\OneDrive - MSFT\\\u5B66\u4E60\\\u5927\u4E8C\u4E0B\\\u53EF\u89C6\u5316\u7A0B\u5E8F\u8BBE\u8BA1\\FinalExam\\2229425_\u66FE\u5609\u4F1F_\u4FC4\u7F57\u65AF\u65B9\u5757\u6E38\u620F\\Images.cs",
+              "RelativeToolTip": "Images.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:37:15.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\u001\\OneDrive - MSFT\\\u5B66\u4E60\\\u5927\u4E8C\u4E0B\\\u53EF\u89C6\u5316\u7A0B\u5E8F\u8BBE\u8BA1\\FinalExam\\2229425_\u66FE\u5609\u4F1F_\u4FC4\u7F57\u65AF\u65B9\u5757\u6E38\u620F\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\u001\\OneDrive - MSFT\\\u5B66\u4E60\\\u5927\u4E8C\u4E0B\\\u53EF\u89C6\u5316\u7A0B\u5E8F\u8BBE\u8BA1\\FinalExam\\2229425_\u66FE\u5609\u4F1F_\u4FC4\u7F57\u65AF\u65B9\u5757\u6E38\u620F\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAALwAAAAAAAAAAAA+wGYBAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:32:11.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\u001\\OneDrive - MSFT\\\u5B66\u4E60\\\u5927\u4E8C\u4E0B\\\u53EF\u89C6\u5316\u7A0B\u5E8F\u8BBE\u8BA1\\FinalExam\\2229425_\u66FE\u5609\u4F1F_\u4FC4\u7F57\u65AF\u65B9\u5757\u6E38\u620F\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\u001\\OneDrive - MSFT\\\u5B66\u4E60\\\u5927\u4E8C\u4E0B\\\u53EF\u89C6\u5316\u7A0B\u5E8F\u8BBE\u8BA1\\FinalExam\\TetrisGame\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\TetrisGame\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:17:39.605Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
